@@ -1,0 +1,4 @@
+0-13 - Criança
+14-19 - Jovem
+20-50 - Adulto
+<50 - Maior Idade 
